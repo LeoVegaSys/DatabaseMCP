@@ -1,0 +1,40 @@
+For running MCP Server and Client, following additional steps have been performed:
+
+1.  Additional packages:
+        requests
+            For handling Client-Server communications (GET/POST)
+        ollama
+            For integrating, installing and managing LLMs
+        mcp[cli]
+            For MCP Client Server setup
+    Use uv package installer (uv add <packages list>)
+    Confirm package installations in pyproject.toml file
+
+2.  MCP Server configuration:
+        Updated from STDIO to Streamable-http
+            Allows non-local server setup and communications
+            Allows Host and Port configuration for access/communications
+
+3.  Ollama LLM model setup
+        Confirm ollama service is running:
+            systemctl status ollama
+        If not running (active)
+            sudo systemctl start ollama
+    Download required Ollama model with specific parameter count if required.
+    Ollama will download latest model by default
+        ollama pull <model name>
+    Once downloaded, confirm the model is available on system
+        ollama list
+
+4   For running MCP Server,
+        Open new Terminal
+        Activate virtual environment
+        Run primary MCP Server file
+            python main.py
+        Initiates MCP Server with uvicorn setting up server on set Host and Port
+
+5.  For running MCP Client,
+        Open new Terminal
+        Activate virtual environment
+        Run primary MCP Server file
+            python <client file name>.py
