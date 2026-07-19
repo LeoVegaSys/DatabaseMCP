@@ -408,3 +408,872 @@
 2026-04-22 16:18:05,273 | INFO | Processing request of type ListToolsRequest
 2026-04-22 16:18:05,282 | INFO | Terminating session: c9f65c58c7b34be58c3af5dbf851639b
 2026-04-22 16:22:55,813 | INFO | StreamableHTTP session manager shutting down
+2026-04-23 13:32:32,406 | INFO | Loaded 0 procedures from database
+2026-04-23 13:32:32,706 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-04-23 13:32:32,884 | INFO | StreamableHTTP session manager started
+2026-04-23 13:33:42,061 | INFO | Created new transport with session ID: 36ab5f0b5d79413ab58ff2ab2d9922db
+2026-04-23 13:33:42,078 | INFO | Processing request of type ListToolsRequest
+2026-04-23 13:33:42,084 | INFO | Terminating session: 36ab5f0b5d79413ab58ff2ab2d9922db
+2026-04-23 13:34:29,524 | INFO | Created new transport with session ID: 05732387c4594993a22c42d879172317
+2026-04-23 13:34:29,663 | INFO | Processing request of type CallToolRequest
+2026-04-23 13:34:29,799 | INFO | Processing request of type ListToolsRequest
+2026-04-23 13:34:29,807 | INFO | Terminating session: 05732387c4594993a22c42d879172317
+2026-04-23 13:35:47,955 | INFO | Created new transport with session ID: efed39fbad0a49ee8c1dfbf97a6e3be0
+2026-04-23 13:35:47,975 | INFO | Processing request of type CallToolRequest
+2026-04-23 13:35:48,018 | INFO | Processing request of type ListToolsRequest
+2026-04-23 13:35:48,024 | INFO | Terminating session: efed39fbad0a49ee8c1dfbf97a6e3be0
+2026-04-23 13:57:49,445 | INFO | StreamableHTTP session manager shutting down
+2026-04-23 14:52:14,524 | INFO | Loaded 0 procedures from database
+2026-04-23 14:52:14,618 | INFO | StreamableHTTP session manager started
+2026-04-23 14:52:40,163 | INFO | Created new transport with session ID: daefc2e4d82b41e9a7bfe8533d343f80
+2026-04-23 14:52:40,230 | INFO | Processing request of type ListToolsRequest
+2026-04-23 14:52:40,243 | INFO | Terminating session: daefc2e4d82b41e9a7bfe8533d343f80
+2026-04-23 14:53:48,227 | INFO | Created new transport with session ID: 15e8484aa9b742ae9658e0c484f5f486
+2026-04-23 14:53:48,244 | INFO | Processing request of type ListToolsRequest
+2026-04-23 14:53:48,251 | INFO | Terminating session: 15e8484aa9b742ae9658e0c484f5f486
+2026-04-23 14:54:03,402 | INFO | Created new transport with session ID: f5d2a8ba5dac40f1a7825011fca9f53a
+2026-04-23 14:54:03,416 | INFO | Processing request of type CallToolRequest
+2026-04-23 14:54:03,633 | INFO | Terminating session: f5d2a8ba5dac40f1a7825011fca9f53a
+2026-04-23 14:54:52,971 | INFO | Created new transport with session ID: 6ff80f240ead45b99dc00a428c31a160
+2026-04-23 14:54:52,982 | INFO | Processing request of type CallToolRequest
+2026-04-23 14:54:53,051 | INFO | Terminating session: 6ff80f240ead45b99dc00a428c31a160
+2026-04-23 14:56:07,910 | INFO | Created new transport with session ID: 35524ebb000c461ab2204dad2fbf85da
+2026-04-23 14:56:07,928 | INFO | Processing request of type CallToolRequest
+2026-04-23 14:56:07,943 | INFO | Processing request of type ListToolsRequest
+2026-04-23 14:56:07,950 | INFO | Terminating session: 35524ebb000c461ab2204dad2fbf85da
+2026-04-24 16:01:47,297 | INFO | Loaded 0 procedures from database
+2026-04-24 16:01:47,630 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-04-24 16:01:47,782 | INFO | StreamableHTTP session manager started
+2026-04-24 16:01:56,243 | INFO | Created new transport with session ID: e516542c38b24b6094549e93003c72a8
+2026-04-24 16:01:56,271 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:01:56,279 | INFO | Terminating session: e516542c38b24b6094549e93003c72a8
+2026-04-24 16:03:24,836 | INFO | Created new transport with session ID: 434827af94f942da870cbd5cd22260a1
+2026-04-24 16:03:24,853 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:03:24,858 | INFO | Terminating session: 434827af94f942da870cbd5cd22260a1
+2026-04-24 16:04:13,040 | INFO | Created new transport with session ID: 663c2bbee9af443ba566c5ffcb70006c
+2026-04-24 16:04:13,162 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:04:13,417 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:04:13,428 | INFO | Terminating session: 663c2bbee9af443ba566c5ffcb70006c
+2026-04-24 16:04:38,074 | INFO | Created new transport with session ID: 17a92a70618c43668e4cf06ea72f97fe
+2026-04-24 16:04:38,109 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:04:38,119 | INFO | Terminating session: 17a92a70618c43668e4cf06ea72f97fe
+2026-04-24 16:04:51,383 | INFO | Created new transport with session ID: 0596349dd7884b08a0c793635da41ce0
+2026-04-24 16:04:51,456 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:04:51,514 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:04:51,523 | INFO | Terminating session: 0596349dd7884b08a0c793635da41ce0
+2026-04-24 16:05:15,974 | INFO | Created new transport with session ID: 6cb799ff5385430f91c7d737a92eafa6
+2026-04-24 16:05:16,000 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:05:16,098 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:05:16,105 | INFO | Terminating session: 6cb799ff5385430f91c7d737a92eafa6
+2026-04-24 16:06:07,310 | INFO | Created new transport with session ID: e7b2f83b90994cfdbaed5070bbb79c19
+2026-04-24 16:06:07,325 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:06:07,331 | INFO | Terminating session: e7b2f83b90994cfdbaed5070bbb79c19
+2026-04-24 16:06:39,865 | INFO | Created new transport with session ID: b71b45b2c02d433d95dc75b5ed550df8
+2026-04-24 16:06:39,892 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:06:40,210 | INFO | Terminating session: b71b45b2c02d433d95dc75b5ed550df8
+2026-04-24 16:07:17,645 | INFO | Created new transport with session ID: 9217fbc263334f3a88ecf52825466ff1
+2026-04-24 16:07:17,660 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:07:17,701 | INFO | Processing request of type ListToolsRequest
+2026-04-24 16:07:17,708 | INFO | Terminating session: 9217fbc263334f3a88ecf52825466ff1
+2026-04-24 16:07:42,614 | INFO | Created new transport with session ID: 953a5c31dbd4478ab01d480e432c491b
+2026-04-24 16:07:42,633 | INFO | Processing request of type CallToolRequest
+2026-04-24 16:07:42,820 | INFO | Terminating session: 953a5c31dbd4478ab01d480e432c491b
+2026-04-24 17:11:00,914 | INFO | Created new transport with session ID: de3c36d72ccb4ca881d32bc7622ab353
+2026-04-24 17:11:01,006 | INFO | Processing request of type ListToolsRequest
+2026-04-24 17:11:01,036 | INFO | Terminating session: de3c36d72ccb4ca881d32bc7622ab353
+2026-04-24 17:11:58,477 | INFO | Created new transport with session ID: 5e4e9bf869b64a4cb8c822603688d03d
+2026-04-24 17:11:58,522 | INFO | Processing request of type CallToolRequest
+2026-04-24 17:11:58,678 | INFO | Processing request of type ListToolsRequest
+2026-04-24 17:11:58,697 | INFO | Terminating session: 5e4e9bf869b64a4cb8c822603688d03d
+2026-04-24 17:12:23,184 | INFO | Created new transport with session ID: 0b4fe759114c43afa231a4309fb4f1fe
+2026-04-24 17:12:23,207 | INFO | Processing request of type CallToolRequest
+2026-04-24 17:12:23,253 | INFO | Processing request of type ListToolsRequest
+2026-04-24 17:12:23,259 | INFO | Terminating session: 0b4fe759114c43afa231a4309fb4f1fe
+2026-04-24 17:12:48,305 | INFO | Created new transport with session ID: 814c0614782e4c68a2baec46deb5c456
+2026-04-24 17:12:48,331 | INFO | Processing request of type CallToolRequest
+2026-04-24 17:12:48,360 | INFO | Processing request of type ListToolsRequest
+2026-04-24 17:12:48,375 | INFO | Terminating session: 814c0614782e4c68a2baec46deb5c456
+2026-04-24 17:20:16,180 | INFO | Created new transport with session ID: e59660b5eb3144689b2a661e74ba8dec
+2026-04-24 17:20:16,266 | INFO | Processing request of type CallToolRequest
+2026-04-24 17:20:16,301 | INFO | Processing request of type ListToolsRequest
+2026-04-24 17:20:16,328 | INFO | Terminating session: e59660b5eb3144689b2a661e74ba8dec
+2026-04-24 17:47:53,499 | INFO | StreamableHTTP session manager shutting down
+2026-05-05 10:47:37,693 | INFO | Loaded 0 procedures from database
+2026-05-05 10:47:38,005 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-05-05 10:47:38,159 | INFO | StreamableHTTP session manager started
+2026-05-05 10:59:00,098 | INFO | Created new transport with session ID: 8056ae35e1834113b037da501cf887a6
+2026-05-05 10:59:00,180 | INFO | Processing request of type ListToolsRequest
+2026-05-05 10:59:00,191 | INFO | Terminating session: 8056ae35e1834113b037da501cf887a6
+2026-05-05 11:11:00,565 | INFO | Created new transport with session ID: 68048af423054f718177ba56cb02292e
+2026-05-05 11:11:00,582 | INFO | Processing request of type ListToolsRequest
+2026-05-05 11:11:46,707 | INFO | Terminating session: 68048af423054f718177ba56cb02292e
+2026-05-05 11:27:33,011 | INFO | Created new transport with session ID: cc69f6289f424394b2f17826b6039d27
+2026-05-05 11:27:33,064 | INFO | Processing request of type ListToolsRequest
+2026-05-05 11:28:05,349 | INFO | Processing request of type CallToolRequest
+2026-05-05 11:28:21,612 | INFO | Terminating session: cc69f6289f424394b2f17826b6039d27
+2026-05-05 12:07:55,224 | INFO | Created new transport with session ID: ce1701c56fa64a119ef53482f32fdcd7
+2026-05-05 12:07:55,275 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:08:21,673 | INFO | Terminating session: ce1701c56fa64a119ef53482f32fdcd7
+2026-05-05 12:16:42,284 | INFO | Created new transport with session ID: bda62f6e8fb1435eb75c72c1adeffce9
+2026-05-05 12:16:42,328 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:16:42,355 | INFO | Terminating session: bda62f6e8fb1435eb75c72c1adeffce9
+2026-05-05 12:20:52,395 | INFO | Created new transport with session ID: dfa56eba90824637ad4286c17e2ba13f
+2026-05-05 12:20:52,414 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:20:52,433 | INFO | Terminating session: dfa56eba90824637ad4286c17e2ba13f
+2026-05-05 12:21:07,432 | INFO | Created new transport with session ID: 8bd55a3987af48cc83987dd98c1fed3d
+2026-05-05 12:21:07,445 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:21:28,150 | INFO | Terminating session: 8bd55a3987af48cc83987dd98c1fed3d
+2026-05-05 12:25:30,417 | INFO | Created new transport with session ID: be9c389a6f1341f49250453121bff7e0
+2026-05-05 12:25:30,487 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:25:32,428 | INFO | Processing request of type CallToolRequest
+2026-05-05 12:25:42,804 | INFO | Terminating session: be9c389a6f1341f49250453121bff7e0
+2026-05-05 12:28:39,316 | INFO | Created new transport with session ID: 05d0d6e8c7304c4c9e68937023bba845
+2026-05-05 12:28:39,327 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:28:50,457 | INFO | Terminating session: 05d0d6e8c7304c4c9e68937023bba845
+2026-05-05 12:29:33,389 | INFO | Created new transport with session ID: 5107e5414c7e4145ab0148d2a38ddfc6
+2026-05-05 12:29:33,400 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:29:34,985 | INFO | Processing request of type CallToolRequest
+2026-05-05 12:29:43,198 | INFO | Terminating session: 5107e5414c7e4145ab0148d2a38ddfc6
+2026-05-05 12:35:22,680 | INFO | Created new transport with session ID: 1b59152317344871bde7ffe046f6bade
+2026-05-05 12:35:22,695 | INFO | Processing request of type ListToolsRequest
+2026-05-05 12:35:49,649 | INFO | Terminating session: 1b59152317344871bde7ffe046f6bade
+2026-05-05 15:23:37,291 | INFO | StreamableHTTP session manager shutting down
+2026-05-05 15:49:04,670 | INFO | Loaded 0 procedures from database
+2026-05-05 15:49:04,778 | INFO | StreamableHTTP session manager started
+2026-05-05 15:50:08,651 | INFO | Created new transport with session ID: decf2baa99894fc8819def6be8405fb4
+2026-05-05 15:50:08,715 | INFO | Processing request of type ListToolsRequest
+2026-05-05 15:50:49,406 | INFO | Processing request of type CallToolRequest
+2026-05-05 15:51:05,563 | INFO | Terminating session: decf2baa99894fc8819def6be8405fb4
+2026-05-05 16:13:54,981 | INFO | StreamableHTTP session manager shutting down
+2026-05-05 16:18:35,803 | INFO | Loaded 0 procedures from database
+2026-05-05 16:18:35,915 | INFO | StreamableHTTP session manager started
+2026-05-05 16:19:01,020 | INFO | Created new transport with session ID: 9dec859382ed4ac1aa0fa2bf875ea0d5
+2026-05-05 16:19:01,094 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:19:33,442 | INFO | Terminating session: 9dec859382ed4ac1aa0fa2bf875ea0d5
+2026-05-05 16:20:47,379 | INFO | StreamableHTTP session manager shutting down
+2026-05-05 16:22:30,001 | INFO | Loaded 0 procedures from database
+2026-05-05 16:22:30,056 | INFO | StreamableHTTP session manager started
+2026-05-05 16:22:38,257 | INFO | Created new transport with session ID: 3a46d33477ea454492c55ef9c631ff19
+2026-05-05 16:22:38,327 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:22:40,793 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:22:55,603 | INFO | Terminating session: 3a46d33477ea454492c55ef9c631ff19
+2026-05-05 16:23:31,694 | INFO | Created new transport with session ID: 4810b176a64d4f00abfab3f7300a2078
+2026-05-05 16:23:31,717 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:23:54,713 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:24:09,278 | INFO | Terminating session: 4810b176a64d4f00abfab3f7300a2078
+2026-05-05 16:24:28,163 | INFO | Created new transport with session ID: 00387320bf274b0e96d250f20d64c16e
+2026-05-05 16:24:28,178 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:24:48,630 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:25:02,782 | INFO | Terminating session: 00387320bf274b0e96d250f20d64c16e
+2026-05-05 16:25:48,559 | INFO | Created new transport with session ID: 361b40fc61ea4a02a4866a33b88c9f36
+2026-05-05 16:25:48,577 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:26:08,902 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:26:22,642 | INFO | Terminating session: 361b40fc61ea4a02a4866a33b88c9f36
+2026-05-05 16:27:49,935 | INFO | Created new transport with session ID: f97f0f68f91046e8bc3ebbd09ec4df7e
+2026-05-05 16:27:49,957 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:28:11,479 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:28:11,502 | ERROR | Describe table failed: Table 'time_1' does not exist
+2026-05-05 16:28:11,568 | INFO | Terminating session: f97f0f68f91046e8bc3ebbd09ec4df7e
+2026-05-05 16:37:21,652 | INFO | Created new transport with session ID: 33ee7f4d198343f1b9aa45bfc73d5d2b
+2026-05-05 16:37:21,672 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:37:23,098 | INFO | Terminating session: 33ee7f4d198343f1b9aa45bfc73d5d2b
+2026-05-05 16:38:54,595 | INFO | Created new transport with session ID: a746450f734b4034bfbbdceefadd5ae9
+2026-05-05 16:38:54,615 | INFO | Processing request of type ListToolsRequest
+2026-05-05 16:39:30,012 | INFO | Processing request of type CallToolRequest
+2026-05-05 16:39:45,746 | INFO | Terminating session: a746450f734b4034bfbbdceefadd5ae9
+2026-05-05 16:41:46,367 | INFO | StreamableHTTP session manager shutting down
+2026-05-06 10:59:58,461 | INFO | Loaded 0 procedures from database
+2026-05-06 10:59:59,733 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-05-06 10:59:59,871 | INFO | StreamableHTTP session manager started
+2026-05-06 11:00:45,886 | INFO | Created new transport with session ID: 5fd61bb8993a4ee6ba9a5535d470b6a3
+2026-05-06 11:00:45,903 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:01:18,806 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:01:34,703 | INFO | Terminating session: 5fd61bb8993a4ee6ba9a5535d470b6a3
+2026-05-06 11:37:32,649 | INFO | Created new transport with session ID: c6df83f5307a493dba636a4e0808dca9
+2026-05-06 11:37:32,669 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:37:53,556 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:38:02,333 | INFO | Terminating session: c6df83f5307a493dba636a4e0808dca9
+2026-05-06 11:38:21,152 | INFO | Created new transport with session ID: 48c1bbe83b9944f69c03ca3e37cd2cdd
+2026-05-06 11:38:21,167 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:38:35,776 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:38:48,211 | INFO | Terminating session: 48c1bbe83b9944f69c03ca3e37cd2cdd
+2026-05-06 11:39:24,436 | INFO | Created new transport with session ID: 5278ccb74e3744ad918b9ebf12611fd9
+2026-05-06 11:39:24,447 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:39:41,361 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:41:02,295 | INFO | Terminating session: 5278ccb74e3744ad918b9ebf12611fd9
+2026-05-06 11:41:39,365 | INFO | Created new transport with session ID: 8b38d74f8a88469bbed2628a9bac6feb
+2026-05-06 11:41:39,376 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:41:55,920 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:42:07,227 | INFO | Terminating session: 8b38d74f8a88469bbed2628a9bac6feb
+2026-05-06 11:42:40,547 | INFO | Created new transport with session ID: f04b7b3dd2d04fd3b0591cea99237c43
+2026-05-06 11:42:40,559 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:43:00,722 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:43:14,181 | INFO | Terminating session: f04b7b3dd2d04fd3b0591cea99237c43
+2026-05-06 11:47:29,904 | INFO | Created new transport with session ID: 484fb3a5ee3243f883146295308b4245
+2026-05-06 11:47:29,946 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:47:43,544 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:47:57,153 | INFO | Terminating session: 484fb3a5ee3243f883146295308b4245
+2026-05-06 11:48:30,289 | INFO | Created new transport with session ID: 2bb3ea2dd5e249f4a4398d5b9c9ed564
+2026-05-06 11:48:30,299 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:48:43,092 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:48:59,587 | INFO | Terminating session: 2bb3ea2dd5e249f4a4398d5b9c9ed564
+2026-05-06 11:49:03,596 | INFO | Created new transport with session ID: c1e4dd6e337f48e9b0bc5c7fd7774a10
+2026-05-06 11:49:03,610 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:49:22,922 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:49:23,146 | INFO | Terminating session: c1e4dd6e337f48e9b0bc5c7fd7774a10
+2026-05-06 11:52:06,116 | INFO | Created new transport with session ID: cd20123bc0ad480e84620ddba5e8b742
+2026-05-06 11:52:06,129 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:52:14,140 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:52:22,050 | INFO | Terminating session: cd20123bc0ad480e84620ddba5e8b742
+2026-05-06 11:53:40,375 | INFO | Created new transport with session ID: a925696e169f4a4694e6658b882521fb
+2026-05-06 11:53:40,391 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:54:57,343 | INFO | Created new transport with session ID: 85fae440ecce4e90aaf0f324a81a3562
+2026-05-06 11:54:57,352 | INFO | Processing request of type ListToolsRequest
+2026-05-06 11:55:15,949 | INFO | Processing request of type CallToolRequest
+2026-05-06 11:55:29,404 | INFO | Terminating session: 85fae440ecce4e90aaf0f324a81a3562
+2026-05-06 12:00:35,931 | INFO | Created new transport with session ID: 13afc59075a24d319550adaffae978bd
+2026-05-06 12:00:35,945 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:01:06,088 | INFO | Processing request of type CallToolRequest
+2026-05-06 12:01:34,977 | INFO | Terminating session: 13afc59075a24d319550adaffae978bd
+2026-05-06 12:28:21,045 | INFO | Created new transport with session ID: c08bfd8f84de49dc98f5e0e9ea71cc74
+2026-05-06 12:28:21,072 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:28:21,080 | INFO | Terminating session: c08bfd8f84de49dc98f5e0e9ea71cc74
+2026-05-06 12:30:33,857 | INFO | Created new transport with session ID: 3af55b8a7a824ecfaa08454c068ffdc6
+2026-05-06 12:30:33,890 | INFO | Processing request of type CallToolRequest
+2026-05-06 12:30:36,968 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:30:36,971 | INFO | Terminating session: 3af55b8a7a824ecfaa08454c068ffdc6
+2026-05-06 12:32:23,393 | INFO | Created new transport with session ID: c5cc75838f2941c7a2ac6cdc40a8a3fd
+2026-05-06 12:32:23,408 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:32:23,414 | INFO | Terminating session: c5cc75838f2941c7a2ac6cdc40a8a3fd
+2026-05-06 12:36:54,499 | INFO | Created new transport with session ID: 777fba4804d649b38f785efcc0704034
+2026-05-06 12:36:54,513 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:36:54,521 | INFO | Terminating session: 777fba4804d649b38f785efcc0704034
+2026-05-06 12:37:25,264 | INFO | Created new transport with session ID: 0b9c933b4a4e4b34a61448f2fad480dc
+2026-05-06 12:37:25,298 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:37:25,310 | INFO | Terminating session: 0b9c933b4a4e4b34a61448f2fad480dc
+2026-05-06 12:47:02,052 | INFO | Created new transport with session ID: f8821cf9fa9f456f99e3e41e5562aa09
+2026-05-06 12:47:02,084 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:47:02,097 | INFO | Terminating session: f8821cf9fa9f456f99e3e41e5562aa09
+2026-05-06 12:50:21,870 | INFO | Created new transport with session ID: 4541ccfaf659440fadb23482f904f4d0
+2026-05-06 12:50:21,885 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:50:21,890 | INFO | Terminating session: 4541ccfaf659440fadb23482f904f4d0
+2026-05-06 12:55:30,390 | INFO | Created new transport with session ID: ef8f9667ea8444b88042522336a6c95a
+2026-05-06 12:55:30,408 | INFO | Processing request of type CallToolRequest
+2026-05-06 12:55:33,085 | INFO | Processing request of type ListToolsRequest
+2026-05-06 12:55:33,089 | INFO | Terminating session: ef8f9667ea8444b88042522336a6c95a
+2026-05-06 13:00:08,291 | INFO | Created new transport with session ID: 8444925e85404680829c7bce5e5ddcdb
+2026-05-06 13:00:08,302 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:00:08,306 | INFO | Terminating session: 8444925e85404680829c7bce5e5ddcdb
+2026-05-06 13:01:53,237 | INFO | Created new transport with session ID: 9c435b934db943caa0fc1225e82dabd8
+2026-05-06 13:01:53,253 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:01:53,258 | INFO | Terminating session: 9c435b934db943caa0fc1225e82dabd8
+2026-05-06 13:06:41,765 | INFO | Created new transport with session ID: 7a63426cbfac47019c4c99682696d6ee
+2026-05-06 13:06:41,793 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:06:44,230 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:06:44,233 | INFO | Terminating session: 7a63426cbfac47019c4c99682696d6ee
+2026-05-06 13:12:23,415 | INFO | Created new transport with session ID: 71cb60dda5dc424f977802e47e26f93f
+2026-05-06 13:12:23,441 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:12:25,609 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:12:25,612 | INFO | Terminating session: 71cb60dda5dc424f977802e47e26f93f
+2026-05-06 13:17:36,131 | INFO | Created new transport with session ID: 0b6b3ec21ad54adba8d63bd5b5365c9a
+2026-05-06 13:17:36,152 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:17:36,196 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:17:36,203 | INFO | Terminating session: 0b6b3ec21ad54adba8d63bd5b5365c9a
+2026-05-06 13:26:33,194 | INFO | Created new transport with session ID: 69ffc85b12704e0c8691d5f0d7aafa79
+2026-05-06 13:26:33,211 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:26:33,234 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:26:33,239 | INFO | Terminating session: 69ffc85b12704e0c8691d5f0d7aafa79
+2026-05-06 13:35:36,403 | INFO | Created new transport with session ID: 79b0c0ca36424431850c560dc22e944f
+2026-05-06 13:35:36,421 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:35:36,441 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:35:36,445 | INFO | Terminating session: 79b0c0ca36424431850c560dc22e944f
+2026-05-06 13:48:27,439 | INFO | Created new transport with session ID: 951d6e0b93c74f65a76467bb954922c2
+2026-05-06 13:48:27,459 | INFO | Processing request of type CallToolRequest
+2026-05-06 13:48:27,472 | INFO | Processing request of type ListToolsRequest
+2026-05-06 13:48:27,478 | INFO | Terminating session: 951d6e0b93c74f65a76467bb954922c2
+2026-05-06 15:14:16,046 | INFO | Created new transport with session ID: 24ca27a7fe7f4bc6b6f3ad6f6710e5da
+2026-05-06 15:14:16,093 | INFO | Processing request of type ListToolsRequest
+2026-05-06 15:14:16,106 | INFO | Terminating session: 24ca27a7fe7f4bc6b6f3ad6f6710e5da
+2026-05-06 15:24:16,962 | INFO | Created new transport with session ID: 2e1c10b24cd34522a5345da88805ed2a
+2026-05-06 15:24:16,982 | INFO | Processing request of type CallToolRequest
+2026-05-06 15:24:17,205 | INFO | Terminating session: 2e1c10b24cd34522a5345da88805ed2a
+2026-05-06 17:50:32,939 | INFO | StreamableHTTP session manager shutting down
+2026-05-14 15:25:13,606 | INFO | Loaded 0 procedures from database
+2026-05-14 15:25:13,723 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-05-14 15:25:13,848 | INFO | StreamableHTTP session manager started
+2026-05-14 15:25:21,322 | INFO | Created new transport with session ID: dfe1599b6afc4cba9d546f2584679b97
+2026-05-14 15:25:21,334 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:25:21,342 | INFO | Terminating session: dfe1599b6afc4cba9d546f2584679b97
+2026-05-14 15:27:08,662 | INFO | Created new transport with session ID: 3d5046d124b5497894af98d82de48854
+2026-05-14 15:27:08,675 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:27:08,679 | INFO | Terminating session: 3d5046d124b5497894af98d82de48854
+2026-05-14 15:28:23,812 | INFO | Created new transport with session ID: 585674303af24c1c8af80403ebeccfaa
+2026-05-14 15:28:23,834 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:28:23,838 | INFO | Terminating session: 585674303af24c1c8af80403ebeccfaa
+2026-05-14 15:28:57,444 | INFO | Created new transport with session ID: b897052b3043420193b6e5e5782d3fc9
+2026-05-14 15:28:57,458 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:28:57,462 | INFO | Terminating session: b897052b3043420193b6e5e5782d3fc9
+2026-05-14 15:29:22,073 | INFO | Created new transport with session ID: 399cc58ec78840bf9360c55a12b8e429
+2026-05-14 15:29:22,138 | INFO | Processing request of type CallToolRequest
+2026-05-14 15:29:22,317 | INFO | Terminating session: 399cc58ec78840bf9360c55a12b8e429
+2026-05-14 15:30:06,453 | INFO | Created new transport with session ID: 1aadc8d05d094248b41eb99a0325961e
+2026-05-14 15:30:06,469 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:30:06,475 | INFO | Terminating session: 1aadc8d05d094248b41eb99a0325961e
+2026-05-14 15:30:08,264 | INFO | Created new transport with session ID: 97490c082b5a457aa2ab5ae978eba348
+2026-05-14 15:30:08,309 | INFO | Processing request of type CallToolRequest
+2026-05-14 15:30:08,396 | INFO | Processing request of type ListToolsRequest
+2026-05-14 15:30:08,402 | INFO | Terminating session: 97490c082b5a457aa2ab5ae978eba348
+2026-06-04 13:17:07,800 | INFO | Loaded 0 procedures from database
+2026-06-04 13:17:07,995 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-06-04 13:17:08,156 | INFO | StreamableHTTP session manager started
+2026-06-04 13:20:21,852 | INFO | Created new transport with session ID: ddc369d483ca4e7d983b933acfac84cb
+2026-06-04 13:51:24,728 | INFO | Created new transport with session ID: aa9aa3cd77da413189ca3ff7d80c7526
+2026-06-04 14:05:58,778 | INFO | Created new transport with session ID: 13ec1a4060964fc78216972feab77424
+2026-06-04 14:10:45,873 | INFO | Created new transport with session ID: 68c95bd0fb86420cb7fcfc7fdd306264
+2026-06-04 14:14:20,807 | INFO | Created new transport with session ID: d0ebe61f78eb488cb79d7ed17e8758db
+2026-06-04 14:14:20,813 | INFO | Created new transport with session ID: 451df8677e5848dfb80a3dd74ac945ae
+2026-06-04 14:19:40,961 | INFO | Created new transport with session ID: 67b316d800b6492590da6ee4f60a3332
+2026-06-04 14:19:40,971 | INFO | Created new transport with session ID: df8cbc80ac5647978061db9c029024ca
+2026-06-04 14:23:05,443 | INFO | Created new transport with session ID: b1113d58916d4e78b48c508f28e722c2
+2026-06-04 14:23:05,459 | INFO | Created new transport with session ID: 4cb468a7115342b7a4f3c47c8a2ff9f4
+2026-06-04 15:03:36,701 | INFO | Created new transport with session ID: 1173e388eea3474ab2c9aead23917bdc
+2026-06-04 15:03:36,839 | WARNING | Failed to validate request: 30 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-06-04 15:06:03,150 | INFO | Created new transport with session ID: e894a09f99824a9dbaa01c7eed7f9a27
+2026-06-04 15:06:03,157 | WARNING | Failed to validate request: 30 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-06-04 15:10:03,874 | INFO | Created new transport with session ID: b7c60665e87c4242b81af4315fe2a626
+2026-06-04 15:10:03,885 | WARNING | Failed to validate request: 30 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-06-04 15:11:01,334 | INFO | Created new transport with session ID: a1f4b44bcf4a4e06a951ccd1016e30b2
+2026-06-04 15:11:39,457 | INFO | Created new transport with session ID: fa4ccbaecb294c7d82cd3dc03c9bab3d
+2026-06-04 15:11:39,471 | WARNING | Failed to validate request: 30 validation errors for ClientRequest
+PingRequest.method
+  Input should be 'ping' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+InitializeRequest.params.protocolVersion
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.capabilities
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+InitializeRequest.params.clientInfo
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.method
+  Input should be 'completion/complete' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CompleteRequest.params.ref
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CompleteRequest.params.argument
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SetLevelRequest.method
+  Input should be 'logging/setLevel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SetLevelRequest.params.level
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetPromptRequest.method
+  Input should be 'prompts/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetPromptRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListPromptsRequest.method
+  Input should be 'prompts/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourcesRequest.method
+  Input should be 'resources/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ListResourceTemplatesRequest.method
+  Input should be 'resources/templates/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.method
+  Input should be 'resources/read' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+ReadResourceRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+SubscribeRequest.method
+  Input should be 'resources/subscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+SubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+UnsubscribeRequest.method
+  Input should be 'resources/unsubscribe' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+UnsubscribeRequest.params.uri
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+CallToolRequest.method
+  Input should be 'tools/call' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CallToolRequest.params.name
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListToolsRequest.method
+  Input should be 'tools/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.method
+  Input should be 'tasks/get' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+GetTaskPayloadRequest.method
+  Input should be 'tasks/result' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+GetTaskPayloadRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+ListTasksRequest.method
+  Input should be 'tasks/list' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.method
+  Input should be 'tasks/cancel' [type=literal_error, input_value='initialize', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/literal_error
+CancelTaskRequest.params.taskId
+  Field required [type=missing, input_value={}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-06-04 15:13:54,787 | INFO | Created new transport with session ID: 7469b9dd508f42ee91b160d9f0a11ccb
+2026-06-04 16:08:21,728 | INFO | Created new transport with session ID: 58c3ecb652e34036a56cce88f67a1695
+2026-06-04 16:08:21,852 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:08:22,016 | INFO | Terminating session: 58c3ecb652e34036a56cce88f67a1695
+2026-06-04 16:09:18,873 | INFO | Created new transport with session ID: 7c1914de47b241b787b1416b93c341a9
+2026-06-04 16:09:18,949 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:09:18,955 | INFO | Terminating session: 7c1914de47b241b787b1416b93c341a9
+2026-06-04 16:09:59,067 | INFO | Created new transport with session ID: e6c56f363b6d46fa8bcd7aa901f43788
+2026-06-04 16:09:59,079 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:09:59,083 | INFO | Terminating session: e6c56f363b6d46fa8bcd7aa901f43788
+2026-06-04 16:09:59,112 | INFO | Created new transport with session ID: cdf496a8d5b94647ae45609a83d3e257
+2026-06-04 16:09:59,127 | INFO | Processing request of type CallToolRequest
+2026-06-04 16:09:59,549 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:09:59,556 | INFO | Terminating session: cdf496a8d5b94647ae45609a83d3e257
+2026-06-04 16:10:33,969 | INFO | Created new transport with session ID: 75fd2ba91cf549569be02e79ebb966f7
+2026-06-04 16:10:33,994 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:10:34,000 | INFO | Terminating session: 75fd2ba91cf549569be02e79ebb966f7
+2026-06-04 16:10:34,013 | INFO | Created new transport with session ID: d96c95f30c154f8994420754f7781500
+2026-06-04 16:10:34,022 | INFO | Processing request of type CallToolRequest
+2026-06-04 16:10:34,069 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:10:34,106 | INFO | Terminating session: d96c95f30c154f8994420754f7781500
+2026-06-04 16:15:39,019 | INFO | Created new transport with session ID: fd24d51a1a614d7c84c424d81ec0a8b3
+2026-06-04 16:15:39,041 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:15:39,048 | INFO | Terminating session: fd24d51a1a614d7c84c424d81ec0a8b3
+2026-06-04 16:15:39,064 | INFO | Created new transport with session ID: 66c60bb8df5a4e48840f2d440439a5b2
+2026-06-04 16:15:39,079 | INFO | Processing request of type CallToolRequest
+2026-06-04 16:15:39,099 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:15:39,106 | INFO | Terminating session: 66c60bb8df5a4e48840f2d440439a5b2
+2026-06-04 16:27:29,928 | INFO | Loaded 0 procedures from database
+2026-06-04 16:27:30,049 | INFO | StreamableHTTP session manager started
+2026-06-04 16:27:47,993 | INFO | Created new transport with session ID: 310ab8dbc589475d80f3c921d7831db1
+2026-06-04 16:27:48,036 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:27:48,040 | INFO | Terminating session: 310ab8dbc589475d80f3c921d7831db1
+2026-06-04 16:27:48,050 | INFO | Created new transport with session ID: 92377bc1a5a542429dab34e83e327a49
+2026-06-04 16:27:48,058 | INFO | Processing request of type CallToolRequest
+2026-06-04 16:27:48,092 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:27:48,097 | INFO | Terminating session: 92377bc1a5a542429dab34e83e327a49
+2026-06-04 16:32:47,891 | INFO | Created new transport with session ID: a5d6ce42018f467d8a0b8244b6df21f4
+2026-06-04 16:32:47,922 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:32:47,931 | INFO | Terminating session: a5d6ce42018f467d8a0b8244b6df21f4
+2026-06-04 16:32:47,952 | INFO | Created new transport with session ID: d5e877093d8d488b94622538f9400ae6
+2026-06-04 16:32:47,964 | INFO | Processing request of type CallToolRequest
+2026-06-04 16:32:47,981 | INFO | Processing request of type ListToolsRequest
+2026-06-04 16:32:47,986 | INFO | Terminating session: d5e877093d8d488b94622538f9400ae6
+2026-06-04 17:23:12,291 | INFO | Created new transport with session ID: adea258f9bb942e081900655e5ec95d7
+2026-06-04 17:23:12,451 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:23:12,466 | INFO | Terminating session: adea258f9bb942e081900655e5ec95d7
+2026-06-04 17:23:12,483 | INFO | Created new transport with session ID: 0ca535a617dd4cabb4a6460b4daf50c9
+2026-06-04 17:23:12,493 | INFO | Processing request of type CallToolRequest
+2026-06-04 17:23:12,567 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:23:12,571 | INFO | Terminating session: 0ca535a617dd4cabb4a6460b4daf50c9
+2026-06-04 17:28:17,384 | INFO | Created new transport with session ID: 66cfee482404483fb41f5dd10841b389
+2026-06-04 17:28:17,406 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:28:17,411 | INFO | Terminating session: 66cfee482404483fb41f5dd10841b389
+2026-06-04 17:28:17,430 | INFO | Created new transport with session ID: b2b35320be1d4ea5affcd849b6cc277b
+2026-06-04 17:28:17,444 | INFO | Processing request of type CallToolRequest
+2026-06-04 17:28:17,459 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:28:17,465 | INFO | Terminating session: b2b35320be1d4ea5affcd849b6cc277b
+2026-06-04 17:34:02,231 | INFO | Created new transport with session ID: 4f192d573f5542e19aeadbbb072fe1e6
+2026-06-04 17:34:02,263 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:34:02,273 | INFO | Terminating session: 4f192d573f5542e19aeadbbb072fe1e6
+2026-06-04 17:34:02,331 | INFO | Created new transport with session ID: 90f07e4f4d994507b72ef33f3230e118
+2026-06-04 17:34:02,353 | INFO | Processing request of type CallToolRequest
+2026-06-04 17:34:02,383 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:34:02,393 | INFO | Terminating session: 90f07e4f4d994507b72ef33f3230e118
+2026-06-04 17:40:17,075 | INFO | Created new transport with session ID: 7e1360658f184da0be0ba6e616b95f7a
+2026-06-04 17:40:17,090 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:40:17,094 | INFO | Terminating session: 7e1360658f184da0be0ba6e616b95f7a
+2026-06-04 17:40:17,107 | INFO | Created new transport with session ID: f22b66d57164487eb1c12ccc12e0a4af
+2026-06-04 17:40:17,131 | INFO | Processing request of type CallToolRequest
+2026-06-04 17:40:17,148 | INFO | Processing request of type ListToolsRequest
+2026-06-04 17:40:17,154 | INFO | Terminating session: f22b66d57164487eb1c12ccc12e0a4af
+2026-06-05 10:06:42,358 | INFO | Loaded 0 procedures from database
+2026-06-05 10:06:42,624 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-06-05 10:06:42,755 | INFO | StreamableHTTP session manager started
+2026-06-05 10:11:30,126 | INFO | Created new transport with session ID: 31f0369e360e4df4a8396e55ab9834f3
+2026-06-05 10:11:30,280 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:11:30,315 | INFO | Terminating session: 31f0369e360e4df4a8396e55ab9834f3
+2026-06-05 10:11:30,335 | INFO | Created new transport with session ID: 28dcb74db03b49e3910b7fd0143d63b5
+2026-06-05 10:11:30,349 | INFO | Processing request of type CallToolRequest
+2026-06-05 10:11:30,573 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:11:30,580 | INFO | Terminating session: 28dcb74db03b49e3910b7fd0143d63b5
+2026-06-05 10:16:56,774 | INFO | Created new transport with session ID: 9fa6aebc5a67482b987abb2167191646
+2026-06-05 10:16:56,804 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:16:56,814 | INFO | Terminating session: 9fa6aebc5a67482b987abb2167191646
+2026-06-05 10:16:56,829 | INFO | Created new transport with session ID: 182f12f0207c46d99efe5991856e2e32
+2026-06-05 10:16:56,843 | INFO | Processing request of type CallToolRequest
+2026-06-05 10:16:56,863 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:16:56,868 | INFO | Terminating session: 182f12f0207c46d99efe5991856e2e32
+2026-06-05 10:26:28,593 | INFO | Created new transport with session ID: a92ac67b44a64aecbc368da00fd03543
+2026-06-05 10:26:28,619 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:26:28,625 | INFO | Terminating session: a92ac67b44a64aecbc368da00fd03543
+2026-06-05 10:26:28,645 | INFO | Created new transport with session ID: f55238b392164166a7a75dbeb1309c01
+2026-06-05 10:26:28,661 | INFO | Processing request of type CallToolRequest
+2026-06-05 10:26:28,682 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:26:28,687 | INFO | Terminating session: f55238b392164166a7a75dbeb1309c01
+2026-06-05 10:31:41,212 | INFO | Created new transport with session ID: 7c1542e767be441cb3ee516a098105c7
+2026-06-05 10:31:41,269 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:31:41,275 | INFO | Terminating session: 7c1542e767be441cb3ee516a098105c7
+2026-06-05 10:31:41,295 | INFO | Created new transport with session ID: e74b96d6674f4f0a9595ca9259c435eb
+2026-06-05 10:31:41,313 | INFO | Processing request of type CallToolRequest
+2026-06-05 10:31:41,323 | INFO | Processing request of type ListToolsRequest
+2026-06-05 10:31:41,328 | INFO | Terminating session: e74b96d6674f4f0a9595ca9259c435eb
+2026-07-18 21:21:40,613 | INFO | Loaded 0 procedures from database
+2026-07-18 21:21:40,732 | INFO | StreamableHTTP session manager started
+2026-07-18 21:23:40,970 | INFO | Created new transport with session ID: 4d0002aa74df40a2b78324725b563f39
+2026-07-18 21:23:41,025 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:23:41,031 | INFO | Terminating session: 4d0002aa74df40a2b78324725b563f39
+2026-07-18 21:24:15,074 | INFO | Created new transport with session ID: af79339d1b194e40979f304af53505d6
+2026-07-18 21:24:15,090 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:24:15,097 | INFO | Terminating session: af79339d1b194e40979f304af53505d6
+2026-07-18 21:24:15,129 | INFO | Created new transport with session ID: fc70e8bb977640bdbec6e1d0367015b7
+2026-07-18 21:24:15,143 | INFO | Processing request of type CallToolRequest
+2026-07-18 21:24:15,259 | INFO | Terminating session: fc70e8bb977640bdbec6e1d0367015b7
+2026-07-18 21:24:59,998 | INFO | Created new transport with session ID: bc2d7bd12f614c50abab7289d549b119
+2026-07-18 21:25:00,010 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:25:00,016 | INFO | Terminating session: bc2d7bd12f614c50abab7289d549b119
+2026-07-18 21:25:00,056 | INFO | Created new transport with session ID: 891da5d45b4249ba88185214df9c1ac1
+2026-07-18 21:25:00,070 | INFO | Processing request of type CallToolRequest
+2026-07-18 21:25:00,084 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:25:00,089 | INFO | Terminating session: 891da5d45b4249ba88185214df9c1ac1
+2026-07-18 21:35:46,766 | INFO | Created new transport with session ID: 55ee29cd9a984677abcc90a97bfdb0d2
+2026-07-18 21:35:46,782 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:35:46,790 | INFO | Terminating session: 55ee29cd9a984677abcc90a97bfdb0d2
+2026-07-18 21:35:46,822 | INFO | Created new transport with session ID: 9caad50ef42e4c7ab6ba307cdbdf709e
+2026-07-18 21:35:46,832 | INFO | Processing request of type CallToolRequest
+2026-07-18 21:35:46,843 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:35:46,848 | INFO | Terminating session: 9caad50ef42e4c7ab6ba307cdbdf709e
+2026-07-18 21:36:04,168 | INFO | StreamableHTTP session manager shutting down
+2026-07-18 21:36:06,758 | INFO | Loaded 0 procedures from database
+2026-07-18 21:36:06,821 | INFO | StreamableHTTP session manager started
+2026-07-18 21:36:14,579 | INFO | Created new transport with session ID: 62caf6a761c147c6ac2550e5e55101b7
+2026-07-18 21:36:14,636 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:36:14,645 | INFO | Terminating session: 62caf6a761c147c6ac2550e5e55101b7
+2026-07-18 21:36:14,685 | INFO | Created new transport with session ID: be50fa8b7dfb4daeab6addd278c432d9
+2026-07-18 21:36:14,700 | INFO | Processing request of type CallToolRequest
+2026-07-18 21:36:14,716 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:36:14,721 | INFO | Terminating session: be50fa8b7dfb4daeab6addd278c432d9
+2026-07-18 21:37:07,081 | INFO | Created new transport with session ID: 6df2fa71ed17445594d974e3eee3e43c
+2026-07-18 21:37:07,094 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:37:07,100 | INFO | Terminating session: 6df2fa71ed17445594d974e3eee3e43c
+2026-07-18 21:37:07,125 | INFO | Created new transport with session ID: 7f8fd83080784723bc2389531df5fb1a
+2026-07-18 21:37:07,137 | INFO | Processing request of type CallToolRequest
+2026-07-18 21:37:07,147 | INFO | Processing request of type ListToolsRequest
+2026-07-18 21:37:07,150 | INFO | Terminating session: 7f8fd83080784723bc2389531df5fb1a
+2026-07-18 21:38:12,576 | INFO | StreamableHTTP session manager shutting down
+2026-07-19 13:00:07,428 | INFO | Loaded 0 procedures from database
+2026-07-19 13:00:07,961 | INFO | HTTP Request: GET https://pypi.org/pypi/fastmcp/json "HTTP/1.1 200 OK"
+2026-07-19 13:00:08,208 | INFO | StreamableHTTP session manager started
+2026-07-19 13:00:28,491 | INFO | Created new transport with session ID: e9a36614b62c4d9a8422416ed814f594
+2026-07-19 13:00:28,502 | INFO | Processing request of type ListToolsRequest
+2026-07-19 13:00:28,506 | INFO | Terminating session: e9a36614b62c4d9a8422416ed814f594
+2026-07-19 13:00:28,538 | INFO | Created new transport with session ID: 0820448c233147e0964668ba539be17b
+2026-07-19 13:00:28,546 | INFO | Processing request of type CallToolRequest
+2026-07-19 13:00:28,569 | INFO | Processing request of type ListToolsRequest
+2026-07-19 13:00:28,572 | INFO | Terminating session: 0820448c233147e0964668ba539be17b
+2026-07-19 14:27:31,607 | INFO | StreamableHTTP session manager shutting down
+2026-07-19 14:51:10,746 | ERROR | Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3308' (111)
+2026-07-19 14:51:10,747 | ERROR | Failed to load procedures: 2003 (HY000): Can't connect to MySQL server on 'localhost:3308' (111)
+2026-07-19 14:51:52,180 | ERROR | Database connection failed: 2003 (HY000): Can't connect to MySQL server on 'localhost:3308' (111)
+2026-07-19 14:51:52,180 | ERROR | Failed to load procedures: 2003 (HY000): Can't connect to MySQL server on 'localhost:3308' (111)
+2026-07-19 14:52:05,492 | ERROR | Database connection failed: 1698 (28000): Access denied for user 'Vegayan_BRAS'@'localhost'
+2026-07-19 14:52:05,492 | ERROR | Failed to load procedures: 1698 (28000): Access denied for user 'Vegayan_BRAS'@'localhost'
+2026-07-19 14:52:31,993 | INFO | Loaded 0 procedures from database
+2026-07-19 14:52:32,093 | INFO | StreamableHTTP session manager started
+2026-07-19 14:53:04,862 | INFO | StreamableHTTP session manager shutting down
+2026-07-19 14:53:08,281 | INFO | Loaded 0 procedures from database
+2026-07-19 14:53:08,333 | INFO | StreamableHTTP session manager started
+2026-07-19 14:53:12,053 | INFO | StreamableHTTP session manager shutting down
+2026-07-19 14:57:45,859 | INFO | Loaded 0 procedures from database
+2026-07-19 14:57:45,916 | INFO | StreamableHTTP session manager started
+2026-07-19 14:57:50,943 | INFO | StreamableHTTP session manager shutting down

@@ -13,6 +13,8 @@ DB_CONFIG = {
 
 MAX_QUERY_ROWS = int(os.getenv("MAX_QUERY_ROWS", 1000))
 MAX_QUERIES_PER_MINUTE = int(os.getenv("MAX_QUERIES_PER_MINUTE", 100))
+SERVER_HOST=os.getenv("SERVER_HOST", "127.0.0.1")
+SERVER_PORT=int(os.getenv("SERVER_PORT", 8080))
 
 BLOCKED_KEYWORDS = [
     "delete",
