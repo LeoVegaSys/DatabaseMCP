@@ -27,4 +27,5 @@ def call_procedure(procedure_name: str, parameters: list = None):
 mcp.tool()(run_query)
 
 if __name__ == "__main__":
-    mcp.run(transport="streamable-http", host="127.0.0.1", port=8080)
+    #mcp.run(transport="streamable-http", host="127.0.0.1", port=8080)
+    mcp.run(transport="streamable-http", host="127.0.0.1", port=8083, json_response=True, stateless_http=True)

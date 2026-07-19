@@ -5,10 +5,12 @@ description = "MCP demo setup"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "docker>=7.1.0",
     "fastmcp>=3.1.0",
     "mcp[cli]>=1.26.0",
     "mysql-connector-python>=9.6.0",
     "ollama>=0.6.1",
+    "podman-compose>=1.6.0",
     "python-dotenv>=1.2.2",
     "requests>=2.33.1",
 ]

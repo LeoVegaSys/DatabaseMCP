@@ -131,7 +131,7 @@ def register_discovery_tools(mcp):
                 conn.close()
 
     @mcp.tool()
-    def list_procedures():
+    def list_procedures(database_name: str = "mcp_demo"):
         """
         List stored procedures available in the database
         """

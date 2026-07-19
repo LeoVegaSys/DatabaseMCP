@@ -217,6 +217,8 @@ ALLOWED_DATABASES = ["mcp_demo", "Vegayan_BRAS"]
 def validate_query(query: str):
     q = query.lower().strip()
 
+    q = q.replace("```sql", "").replace("```", "")
+
     if not q.startswith("select"):
         raise Exception("Only SELECT queries are allowed")
 

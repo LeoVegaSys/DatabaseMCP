@@ -1,0 +1,10 @@
+data/
+docs/
+requirements1.txt
+main_backup.py
+.git
+*.log
+*Dockerfile*
+.gitignore
+.dockerignore
+.venv/
