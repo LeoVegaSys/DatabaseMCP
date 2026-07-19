@@ -121,14 +121,14 @@ async def main():
                 }
             )
         
-        final = ollama.chat(
-            model=OLLAMA_MODEL,
-            messages=messages,
-        )
+        # final = ollama.chat(
+        #     model=OLLAMA_MODEL,
+        #     messages=messages,
+        # )
         
-        print(f"Final AI Response")
-        print(final["message"]["content"])
-
+        # print(f"Final AI Response")
+        # print(final["message"]["content"])
+        
 
 
 

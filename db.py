@@ -219,8 +219,8 @@ def validate_query(query: str):
 
     q = q.replace("```sql", "").replace("```", "")
 
-    if not q.startswith("select"):
-        raise Exception("Only SELECT queries are allowed")
+    if not (q.startswith("select") or q.startswith("with")):
+        raise Exception("Only WITH/SELECT queries are allowed")
 
     blocked = ["drop", "delete", "insert", "update", "alter", "truncate"]
     if any(word in q for word in blocked):
@@ -244,10 +244,21 @@ def run_query(query: str, database: str = "mcp_demo"):
             query += " LIMIT 100"
 
         cursor.execute(query)
-
+        cols = [d[0] for d in cursor.description]
+        cols_dt = [mysql.connector.FieldType.get_info(d[1]) for d in cursor.description]
         rows = cursor.fetchall()
+        rowCount = len(rows)
 
-        return json.dumps(rows, default=str)
+        result={
+            "success":True,
+            "columns":cols,
+            "columnTypes":cols_dt,
+            "rows":rows,
+            "rowCount":rowCount
+        }
+
+        # return json.dumps(rows, default=str)
+        return json.dumps(result, default=str)
 
     except Exception as e:
         raise Exception(f"Query execution failed: {str(e)}")
