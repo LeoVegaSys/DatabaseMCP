@@ -2,6 +2,7 @@ from fastmcp import FastMCP
 from ratelimiter import check_rate_limit
 from db import execute_procedure_call, run_query
 from discovery_tools import register_discovery_tools
+from discovery_resources import register_discovery_resources
 from tool_generator import register_database_tools
 from config import SERVER_HOST, SERVER_PORT
 
@@ -10,6 +11,9 @@ mcp = FastMCP("Database_MCP_Server", auth=None)
 
 # register system discovery tools
 register_discovery_tools(mcp)
+
+# register system discovery resources
+register_discovery_resources(mcp)
 
 
 # register dynamic database tools
